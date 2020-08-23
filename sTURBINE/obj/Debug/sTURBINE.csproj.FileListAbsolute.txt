@@ -1,0 +1,7 @@
+C:\_CSH\sTURBINE\sTURBINE\bin\Debug\sTURBINE.exe
+C:\_CSH\sTURBINE\sTURBINE\bin\Debug\sTURBINE.pdb
+C:\_CSH\sTURBINE\sTURBINE\obj\Debug\ResolveAssemblyReference.cache
+C:\_CSH\sTURBINE\sTURBINE\obj\Debug\sTURBINE.Properties.Resources.resources
+C:\_CSH\sTURBINE\sTURBINE\obj\Debug\sTURBINE.csproj.GenerateResource.Cache
+C:\_CSH\sTURBINE\sTURBINE\obj\Debug\sTURBINE.exe
+C:\_CSH\sTURBINE\sTURBINE\obj\Debug\sTURBINE.pdb
